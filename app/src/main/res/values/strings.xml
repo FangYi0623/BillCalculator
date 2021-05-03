@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="amount">Amount</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="discount">Discount (%)</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="disable_svs">NO SVS</string>
+    <string name="enable_svs">NO SVS</string>
+    <string name="disable_gst">GST</string>
+    <string name="enable_gst">GST</string>
+
+</resources>
